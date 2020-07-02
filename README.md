@@ -113,7 +113,7 @@ Edith commands:
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheForgotensoul/Edith-Virtual-Assistant/blob/master/LICENSE).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheForgotensoul/Edith-Virtual-Assistant/issues).
 
 ## Show your support
 
