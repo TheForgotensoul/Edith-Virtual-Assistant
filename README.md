@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Edith Virtual Assistant 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-V0.1-blue.svg?cacheSeconds=2592000" />
-  <img alt="Development" src="https://img.shields.io/badge/Development-inprogess-orange.svg?cacheSeconds=2592000" />
+  <img alt="Development" src="https://img.shields.io/badge/Development-inprogress-orange.svg?cacheSeconds=2592000" />
   <a href="https://github.com/TheForgotensoul/Edith-Virtual-Assistant" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
