@@ -62,13 +62,13 @@ Edith commands:
                                 who are you / What does EDITH stand for / what is edith?
 
                 Time and Date:
-                Talk to EDITH : what time is it?or time , what is today date or simply date
+                Talk to EDITH : what time is it? / time , what is today date / simply date
 
                 Gives a system status:
                 Talk to EDITH : how are you? / System report / System Status
 
                 Math Question:
-                Talk to EDITH: do math/math
+                Talk to EDITH: do math / math
 
                 Do a google search :
                 Talk to EDITH: edith search / search
@@ -90,13 +90,13 @@ Edith commands:
                 Talk to EDITH: do you know anything / edith do you know anything
 
                 Tells a joke:
-                Talk to EDITH: joke/tell me a joke
+                Talk to EDITH: joke / tell me a joke
 
                 Standard replies for silly questions:
                 Talk to EDITH : you are dumb
 
                 System operations:
-                ## Be alert while using this commands and unsaved data will to lost.
+                ## Be alert while using this commands any unsaved data will to lost.
                 Talk to EDITH: Shutdown / logout / restart
 
                 Quit th program:
