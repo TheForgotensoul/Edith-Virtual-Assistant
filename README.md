@@ -19,13 +19,6 @@
 
 ### ✨ [Demo](https://github.com/TheForgotensoul/Edith-Virtual-Assistant)
 
-```
-
-
-
-
-```
-
 ## Install
 
 ```sh
